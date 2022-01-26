@@ -1,5 +1,8 @@
 ### UI Tools
 
+#### 26.01.2022 - v1.3.0-dev
+Ein datepcker-Value wird in yForm Tabellen Manager bereit gestellt.
+
 #### 14.03.2019 - v1.0.0
 imglist entfernt, wird in mform fortgeführt
 

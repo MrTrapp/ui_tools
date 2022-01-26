@@ -15,6 +15,9 @@ Weitere Informationen finden sich in der Dokumentation des jeweiligen Plugin.
 
 z.B. Minicolors: `{"class":"minicolors"}`
 
+Das Value "datepicker" wird im yForm Tabellen Manager bereit gestellt.
+Zur Auswahl stehen *yform-tools-datepicker* und *ui-tools-datepicker* Formate.
+
 ___
 * Changelog -> [CHANGELOG.md](CHANGELOG.md)
 * Lizenz ->  [LICENSE.md](LICENSE.md)

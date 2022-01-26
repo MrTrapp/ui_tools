@@ -5,3 +5,5 @@ bootstrap-datetimepicker_readme = Info
 bootstrap-datetimepicker_license = Lizenz
 bootstrap-datetimepicker_less = LESS
 bootstrap-datetimepicker_scss = SCSS
+
+yform_values_datepicker_description = <b>Datepicker</b> mit <b>yForm-Datepicker</b> und dem <b>Ui-Tool AddOn</b>

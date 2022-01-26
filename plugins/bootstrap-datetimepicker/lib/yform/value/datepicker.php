@@ -60,7 +60,7 @@ class rex_yform_value_datepicker extends rex_yform_value_abstract
             ],
             'description' => rex_i18n::msg('yform_values_datepicker_description'), // 'Datepicker', // 
             'db_type' => ['varchar(191)'],
-            'famous' => true,
+            'famous' => false,
             'hooks' => [
                 'preDefault' => static function (rex_yform_manager_field $field) {
                     return $field->getElement('default');
